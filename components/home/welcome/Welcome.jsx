@@ -1,4 +1,4 @@
-import React from 'react'
+import { useState } from 'react'
 import { View, Text } from 'react-native'
 
 import styles from './welcome.style'
@@ -11,4 +11,4 @@ const Welcome = () => {
   )
 }
 
-export default Welcome
+export default Welcome;
